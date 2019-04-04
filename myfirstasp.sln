@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myfirstasp", "myfirstasp\myfirstasp.csproj", "{3056811C-1EC5-4E50-A663-9619A3183F83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myfirstasp.Tests", "myfirstasp.Tests\myfirstasp.Tests.csproj", "{28686698-7D1A-41CA-B3ED-C9DA5EE8ABA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3056811C-1EC5-4E50-A663-9619A3183F83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3056811C-1EC5-4E50-A663-9619A3183F83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3056811C-1EC5-4E50-A663-9619A3183F83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3056811C-1EC5-4E50-A663-9619A3183F83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28686698-7D1A-41CA-B3ED-C9DA5EE8ABA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28686698-7D1A-41CA-B3ED-C9DA5EE8ABA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28686698-7D1A-41CA-B3ED-C9DA5EE8ABA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28686698-7D1A-41CA-B3ED-C9DA5EE8ABA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C57C25B0-6CBF-4941-AB49-58E2C18FF3F6}
+	EndGlobalSection
+EndGlobal
